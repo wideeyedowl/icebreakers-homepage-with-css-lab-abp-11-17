@@ -74,7 +74,7 @@ main
   margin-top:20px;
 }
 
-.jumbotron
+div.jumbotron
 {
    border-radius: 5px;
    background-color:#e9ecef;
