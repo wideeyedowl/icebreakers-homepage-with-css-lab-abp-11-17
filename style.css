@@ -68,3 +68,9 @@ nav a:hover
 {
   text-decoration:underline;
 }
+
+/*Main Styles*/
+main
+{
+  margin-top:20px;
+}
