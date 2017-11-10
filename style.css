@@ -14,7 +14,9 @@ body
 header
 {
   height:100px;
+  border-bottom:1px solid #CCC;
 }
+
 header nav
 {
   float: right;
