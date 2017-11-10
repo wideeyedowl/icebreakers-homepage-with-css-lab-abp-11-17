@@ -52,7 +52,7 @@ nav a:hover
 
 /*Header Styles*/
 
-#header h3
+#header
 {
   float:left;
   font-size:30px;
@@ -75,7 +75,7 @@ main
   margin-top:20px;
 }
 
-div .jumbotron
+.jumbotron
 {
    border-radius: 5px;
    background-color:#e9ecef;
@@ -94,23 +94,23 @@ div .jumbotron
   padding:0 40px 0 40px;
   line-height:40px;
 }
-div .questions
+.questions
 {
   padding:0 20px;
 }
 
-div .questions h4
+.questions h4
 {
   font-size:30px;
   margin-bottom:10px;
 }
 
-div .questions p
+.questions p
 {
   margin-top:30px;
 }
 
-div .questions a .btn
+.questions .btn
 {
   border-radius:5px;
   color:#FFF;
@@ -120,7 +120,7 @@ div .questions a .btn
   padding:18px;
   font-size:20px;
 }
-div .questions a .btn:hover
+.questions .btn:hover
 {
   background-color:#0069d9;
   border-color:#0069d9;
